@@ -3,6 +3,5 @@ document.querySelectorAll('.nav-button').forEach(button => {
         document.querySelector('.nav-button.active').classList.remove('active');
         button.classList.add('active');
         
-        // Add logic to show corresponding sections, if needed
     });
 });
