@@ -439,8 +439,8 @@ a.logo-link .logo, .user-actions a.account-link button {
     width: 100px;
     height: 100px;
     border-radius: 50%;
-    object-fit: cover; /* Ensures the image covers the entire area within the circle */
-    border: 2px solid white; /* Optional: Adds a white border around the circle for better visibility */
+    object-fit: cover;
+    border: 2px solid white; 
 }
 
 .product-categories ul {
